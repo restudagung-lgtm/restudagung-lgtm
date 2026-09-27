@@ -52,10 +52,13 @@
 
 <p align="center">
   <a href="https://github.com/restudagung-lgtm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=restudagung-lgtm&repo=NAMA_REPO_1&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=restudagung-lgtm&repo=pembeli-webv2&theme=tokyonight" />
   </a>
   <a href="https://github.com/restudagung-lgtm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=restudagung-lgtm&repo=NAMA_REPO_2&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=restudagung-lgtm&repo=pebjual-webv2&theme=tokyonight" />
+  </a>
+    <a href="https://github.com/restudagung-lgtm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=restudagung-lgtm&repo=admin-webv2&theme=tokyonight" />
   </a>
 </p>
 
@@ -82,13 +85,13 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+  <a href="https://discord.com/users/m__nd" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+  <a href="https://instagram.com/plaayer_499" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@YOUR_USERNAME" target="_blank">
+  <a href="https://www.tiktok.com/@" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
   <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
